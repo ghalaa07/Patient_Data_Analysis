@@ -18,6 +18,17 @@ This project analyzes patient data using Excel to extract insights and build an 
 - Patient distribution across departments is evenly spread.
 - Some variation exists between genders across conditions.
 
+- ## Power BI Dashboard
+
+This project also includes an interactive dashboard built using Power BI.
+
+### Features:
+- Interactive filters (Slicers)
+- Disease distribution analysis
+- Department analysis
+- Gender-based insights
+- Clean and professional dashboard layout
+
 ## File:
 - Patient_Data_Analysis
 
